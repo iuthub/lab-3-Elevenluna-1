@@ -1,0 +1,45 @@
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11CWL1LXjO9oCavG5rymxYEsHtEUcM1v9og&usqp=CAU");
+}
+.big
+{border: 10px white solid;
+background-color: white;
+}
+.friend{
+	border: 5px #009097 solid;
+	background-color: #99E0E0;
+	float:left;
+	margin:5px;
+	width:150px;
+	padding: 5px;
+}
+.name {
+text-align: right;
+background-color:  #A8F0F0;
+padding: 5px;
+margin: 10px;}
+#subtitle{
+	font-size: 14pt;
+	padding: 5px;
+	margin: 5px;
+	}
+.blue1{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	margin: 10px;
+	padding: 5px;}
+	.blue1 img {float: right;}
+	.space{
+		clear: both;
+	}
+span {
+	border-bottom: 2px blue dashed;
+	padding: 5px;
+	margin: 10px;
+}
+.overall
+{
+	margin-left: 180px;
+}
